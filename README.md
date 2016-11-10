@@ -11,3 +11,13 @@
 * [American Psychiatric Association](http://psychiatryonline.org/guidelines)
 * [American Association for Emergency Psychiatry (AAEP)](http://escholarship.org/uc/uciem_westjem?volume=13;issue=1)
 * []()
+
+# Etat confusionel aigu - 
+* [CAM Review CH](http://www.revmed.ch/RMS/2009/RMS-221/Etat-confusionnel-aigu-une-approche-systematique)
+* [CAM FR-CH](http://www.palliativegeneve.ch/wp-content/uploads/2012/05/Confusion-Assesment-Method.pdf)
+* [CAM Medscape](http://www.medscape.com/viewarticle/481726)
+
+
+# Troubles du spectre autistique
+* [HAS : Autisme et autres troubles envahissants du développement : diagnostic et évaluation chez l’adulte - Juillet 2011](http://www.has-sante.fr/portail/upload/docs/application/pdf/2012-06/reco2clics_-_autisme_et_autre_ted_diagnostic_et_evaluation_chez_ladulte.pdf)
+* RAADS-R
