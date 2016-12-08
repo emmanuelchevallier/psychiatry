@@ -10,7 +10,6 @@
  * [New Guidelines Shake Up Treatment of Agitation](http://www.psychiatrictimes.com/psychiatric-emergencies/new-guidelines-shake-treatment-agitation)
 * [American Psychiatric Association](http://psychiatryonline.org/guidelines)
 * [American Association for Emergency Psychiatry (AAEP)](http://escholarship.org/uc/uciem_westjem?volume=13;issue=1)
-* []()
 
 # Etat confusionel aigu - 
 * [CAM Review CH](http://www.revmed.ch/RMS/2009/RMS-221/Etat-confusionnel-aigu-une-approche-systematique)
@@ -23,3 +22,8 @@
 
 # Pharmacology
 * [Treatment switch](http://wiki.psychiatrienet.nl/index.php/Index.html)
+
+# Depression
+* [Mayo Clinic Shared Decision Making National Resource Center](http://shareddecisions.mayoclinic.org/decision-aid-information/decision-aids-for-chronic-disease/depression-medication-choice/)
+
+* []()
