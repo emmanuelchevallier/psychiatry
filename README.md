@@ -26,7 +26,7 @@
 # Pharmacology
 * [Treatment switch](http://wiki.psychiatrienet.nl/index.php/Index.html)
 
-# Depression
-* [Mayo Clinic Shared Decision Making National Resource Center](http://shareddecisions.mayoclinic.org/decision-aid-information/decision-aids-for-chronic-disease/depression-medication-choice/)
+# Mindfulness 
+* [Formation mindfulness](http://us9.campaign-archive1.com/?u=0305879741ab571338e1c558c&id=d88ea4fcc3&e=c07a755a59)
 
 * []()
