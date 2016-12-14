@@ -4,6 +4,8 @@
 * [« Check-list » courrier médical + modèle de compte rendu d’hospitalisation (CRH) : Rédiger un courrier en psychiatrie](http://www.asso-aesp.fr/wp-content/uploads/2015/01/R%C3%A9difer-un-courrier-en-psychiatrie.pdf)
 * [Rédiger un certificat de soins sans consentement en psychiatrie](http://www.asso-aesp.fr/wp-content/uploads/2016/09/Certificats_AESP.pdf)
 * [Fiche de synthèse sur les différentes mesures de soins sans consentement](http://www.asso-aesp.fr/wp-content/uploads/2014/06/Mesures-de-soins-sous-contrainte.pdf)
+## HAS
+* [Mieux prévenir et prendre en charge les moments de violence dans l’évolution clinique des patients adultes lors des hospitalisations en services de psychiatrie](http://www.has-sante.fr/portail/jcms/c_1722310/fr/mieux-prevenir-et-prendre-en-charge-les-moments-de-violence-dans-l-evolution-clinique-des-patients-adultes-lors-des-hospitalisations-en-services-de-psychiatrie)
 
 #Guidelines
 * [NICE Mental Health Guidelines](http://www.rcpsych.ac.uk/publications/niceguidelines.aspx)
