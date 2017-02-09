@@ -31,6 +31,7 @@
 
 # Pharmacology
 * [Treatment switch](http://wiki.psychiatrienet.nl/index.php/Index.html)
+* [Switch](http://cmpsy-switch.com/)
 
 # Mindfulness 
 * [Formation mindfulness](http://us9.campaign-archive1.com/?u=0305879741ab571338e1c558c&id=d88ea4fcc3&e=c07a755a59)
