@@ -10,6 +10,7 @@
 
 ## Scales
 * [Évaluation Clinique Standardisée en Psychiatrie (ECSP)](http://www.ecsp.fr/)
+* [Echelles d'addictologie] (http://www.test-addicto.fr)
 
 ## Grossesse et allaitement
 * [Centre de Référence sur les Agents Tératogènes (CRAT)](http://lecrat.fr/)
