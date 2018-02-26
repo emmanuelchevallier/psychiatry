@@ -41,5 +41,8 @@
 * [Interview de 3 infirmiers en psychiatrie retraités qui racontent leur expérience à l'époque de la transition dans les années 70 entre asiles fermés et structure psychiatrique hospitalière 'moderne'.](http://rf.proxycast.org/1223610876553076736/16408-23.10.2016-ITEMA_21113305-0.mp3)
 * ["We are naturally drawn to finding solutions. But are there ever problems we shouldn't try to solve? Lulu Miller visits a town in Belgium with a completely different approach to dealing with mental illness. Families in the town board people – strangers - with severe mental illnesses in their homes, sometimes for decades. And it works, because they are not looking to cure them."](http://play.podtrac.com/npr-510307/npr.mc.tritondigital.com/INVIS_PODCAST/media/anon.npr-mp3/npr/invsb/2016/06/20160622_invsb_solutions.mp3?orgId=1&d=3570&p=510307&story=482311381&t=podcast&e=482311381&ft=pod&f=510307)
 
+# Suisse
+* [https://www.hug-ge.ch/pharmacologie-toxicologie-cliniques/outils](Outils HUG)
+* [https://www.hug-ge.ch/sites/interhug/files/structures/pharmacologie_et_toxicologie_cliniques/a5_cytochromes_6_2.pdf](Cytochromes)
 
 * []()
