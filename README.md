@@ -15,7 +15,7 @@
 ## Grossesse et allaitement
 * [Centre de Référence sur les Agents Tératogènes (CRAT)](http://lecrat.fr/)
 
-#Guidelines
+## Guidelines
 * [NICE Mental Health Guidelines](http://www.rcpsych.ac.uk/publications/niceguidelines.aspx)
  * [New Guidelines Shake Up Treatment of Agitation](http://www.psychiatrictimes.com/psychiatric-emergencies/new-guidelines-shake-treatment-agitation)
 * [American Psychiatric Association](http://psychiatryonline.org/guidelines)
